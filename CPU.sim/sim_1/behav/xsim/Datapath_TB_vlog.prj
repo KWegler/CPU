@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CPU.srcs/sources_1/new/ALU.sv" \
+"../../../../CPU.srcs/sources_1/new/Branch_Check.sv" \
+"../../../../CPU.srcs/sources_1/new/CPU_Core.v" \
+"../../../../CPU.srcs/sources_1/new/Controller.sv" \
+"../../../../CPU.srcs/sources_1/new/Data_Mem.v" \
+"../../../../CPU.srcs/sources_1/new/Datapath.v" \
+"../../../../CPU.srcs/sources_1/new/ImmediateMux.sv" \
+"../../../../CPU.srcs/sources_1/new/Immediate_Add.sv" \
+"../../../../CPU.srcs/sources_1/new/Instruction_Mem.sv" \
+"../../../../CPU.srcs/sources_1/new/MemReg_Mux.sv" \
+"../../../../CPU.srcs/sources_1/new/PC.sv" \
+"../../../../CPU.srcs/sources_1/new/PC_Add.sv" \
+"../../../../CPU.srcs/sources_1/new/PC_Mux.sv" \
+"../../../../CPU.srcs/sources_1/new/RegFile.sv" \
+"../../../../CPU.srcs/sim_1/new/Datapath_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

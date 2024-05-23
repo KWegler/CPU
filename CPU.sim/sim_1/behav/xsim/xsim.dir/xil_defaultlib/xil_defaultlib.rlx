@@ -1,0 +1,20 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sim_1/new/Datapath_TB.v,1700173957,verilog,,,,Datapath_TB,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/ALU.sv,1700260247,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Branch_Check.sv,,ALU,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Branch_Check.sv,1700412385,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/CPU_Core.v,,Branch_Check,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/CPU_Core.v,1700173914,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Controller.sv,,CPU_Core,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Controller.sv,1700077297,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Data_Mem.v,,Controller,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Data_Mem.v,1700168980,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Datapath.v,,Data_Mem,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Datapath.v,1700173887,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/ImmediateMux.sv,,Datapath,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/ImmediateMux.sv,1699574807,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Immediate_Add.sv,,Immediate_Mux,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Immediate_Add.sv,1698385561,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Instruction_Mem.sv,,Immediate_Add,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/Instruction_Mem.sv,1698385807,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/MemReg_Mux.sv,,Instruction_Mem,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/MemReg_Mux.sv,1698386456,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC.sv,,MemReg_Mux,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC.sv,1699579568,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC_Add.sv,,PC,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC_Add.sv,1698346559,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC_Mux.sv,,PC_Add,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/PC_Mux.sv,1698346576,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/RegFile.sv,,PC_Mux,,,,,,,,
+C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sources_1/new/RegFile.sv,1700019279,verilog,,C:/Users/kmweg/OneDrive/Documents/School/Computer Architecture/CPU/CPU.srcs/sim_1/new/Datapath_TB.v,,RegFile,,,,,,,,
